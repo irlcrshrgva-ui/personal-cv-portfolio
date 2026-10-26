@@ -1,6 +1,6 @@
 # Personal CV — Web Development & Automation
 
-A responsive personal CV foundation inspired by the owner's older DevFreelance portfolio. Built with HTML, CSS, and JavaScript, with mobile navigation, category filters, project notes, scroll animation, reduced-motion support, and a print layout.
+A responsive personal CV foundation inspired by the owner's older DevFreelance portfolio. Built with HTML, CSS, and JavaScript, with mobile navigation, category filters, scroll animation, reduced-motion support, and a print layout.
 
 **Student name:** Irl Crishreg Peña
 
@@ -34,7 +34,7 @@ Maintain meaningful commits while personalizing content, adding real assets, and
 - Verified skills and real project information
 - Working personal GitHub profile; optional LinkedIn/social profiles
 - Applicable experience, certificates, and awards
-- Test navigation, filters, project notes, and printing
+- Test navigation, filters, and printing
 - Check desktop, laptop, tablet, and phone layouts and keyboard navigation
 - Publish to a personal GitHub repository and Vercel
 - Verify both public URLs and submit them to the LMS

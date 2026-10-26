@@ -16,7 +16,8 @@ Open index.html in a browser, or serve this folder with any static web server. N
 
 - index.html: page content and semantic structure
 - styles.css: layout, responsive breakpoints, animation, and printing
-- script.js: navigation, filters, and print interaction
+- script.js: navigation, animated filters, reading progress, and print interaction
+- motion.css: heading entrances, staggered scroll reveals, background glow, hover effects, and reduced-motion/print overrides
 - vercel.json: static deployment configuration
 
 ## Personal content

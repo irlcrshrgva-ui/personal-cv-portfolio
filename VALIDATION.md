@@ -17,3 +17,7 @@ Tested October 26, 2026 against the production website.
 - Device tests use browser viewport simulation, not physical hardware or multiple browser engines.
 
 Source history contains genuine commits for the CV foundation, GitHub correction, and deployment/validation documentation. No history was fabricated or backdated.
+
+## Animation update
+
+Local browser check confirmed hero/accent animations are active, the motion stylesheet loads, Web/All filters show 2/4 cards, and no console errors or horizontal overflow were observed at the tested viewport. Reduced-motion CSS disables animation and transition; filter animation checks the motion preference before running.

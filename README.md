@@ -21,7 +21,7 @@ Open index.html in a browser, or serve this folder with any static web server. N
 
 ## Personal content
 
-Profile, portrait, school, skills, contact information, professional links, and four projects were reused from the owner's Portfolio School site with permission. The owner confirmed current 4th-year BSIT status and full development of NaviFlow and PitayaGrade. Academic/personal projects serve as experience. No awards, certifications, or formal roles were supplied, so those optional sections are omitted. College dates, project completion status, and individual project repository URLs were not supplied and are not invented.
+Profile, portrait, school, skills, contact information, professional links, and four projects were reused from the owner's Portfolio School site with permission. The owner confirmed current 4th-year BSIT status and full development of NaviFlow and PitayaGrade. Academic/personal projects serve as experience. A brief freelance web development and automation entry is included at the owner’s request, without clients, dates, or performance claims. No awards or certifications were supplied, so those optional sections are omitted. College dates, project completion status, and individual project repository URLs were not supplied and are not invented.
 
 ## GitHub and Vercel
 

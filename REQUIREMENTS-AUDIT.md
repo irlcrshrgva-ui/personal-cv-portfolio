@@ -11,7 +11,7 @@ Updated October 26, 2026.
 | Projects | Four academic/personal projects, descriptions, technologies, screenshots; NaviFlow live link and two Figma links |
 | GitHub profile | Corrected to irlcrshrgva-ui and checked |
 | LinkedIn | Included as supplied; automated availability verification blocked by LinkedIn |
-| Awards/certifications/formal experience | None supplied; optional awards omitted; project work used as student experience |
+| Awards/certifications/formal experience | Brief freelance experience added at owner’s request; optional awards omitted; academic/personal projects also included |
 | Design, typography, spacing, navigation, animations | Implemented and representative layouts reviewed |
 | Responsive desktop/laptop/tablet/mobile | Browser viewport checks passed; see VALIDATION.md |
 | Navigation, filters, images | Production checks passed |

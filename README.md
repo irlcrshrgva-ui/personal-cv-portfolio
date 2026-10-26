@@ -4,7 +4,9 @@ A responsive personal CV foundation inspired by the owner's older DevFreelance p
 
 **Student name:** Irl Crishreg Peña
 
-**Live Vercel link:** Not deployed yet.
+**Live Vercel link:** https://personal-cv-portfolio-gamma.vercel.app/
+
+**GitHub repository:** https://github.com/irlcrshrgva-ui/personal-cv-portfolio
 
 ## Run
 
@@ -25,7 +27,7 @@ Profile, portrait, school, skills, contact information, professional links, and 
 
 Create a dedicated personal GitHub repository and push this folder. Import that repository in Vercel, select Other as the framework, leave the build command empty, and use the repository root as the output directory. Deploy, then replace the live link above with the returned public URL.
 
-Maintain meaningful commits while personalizing content, adding real assets, and fixing issues. Do not manufacture a development history or backdate commits. This starter's initial commit covers the foundation only.
+Maintain meaningful commits while personalizing content, adding real assets, and fixing issues. Do not manufacture a development history or backdate commits. The history records the initial CV foundation, the GitHub profile correction, and subsequent validation and deployment documentation.
 
 ## Submission checklist
 
